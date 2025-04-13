@@ -1,0 +1,108 @@
+Annual Summary Report - 2023
+==================================================
+
+Overall Statistics:
+  Total Records Processed: 652
+  Outcomes Summary:
+      Improved: 217
+      No Change: 214
+      Worsened: 221
+
+Department Insights:
+  Mental Health Counseling:
+      Total Visits: 312
+          Common Diagnoses:
+              General check-up: 190 visits
+              Anxiety: 76 visits
+              Depression: 46 visits
+          Common Treatments:
+              Standard consultation: 190 visits
+              Cognitive Behavioral Therapy: 76 visits
+              Talk therapy: 46 visits
+  Average Treatment Duration: 32.13 days
+
+  Physiotherapy:
+      Total Visits: 142
+          Common Diagnoses:
+              General check-up: 82 visits
+              Knee pain: 31 visits
+              Lower back pain: 29 visits
+          Common Treatments:
+              Standard consultation: 82 visits
+              Strength training: 31 visits
+              Manual therapy: 29 visits
+  Average Treatment Duration: 32.54 days
+
+  Post-Surgery Rehabilitation:
+      Total Visits: 198
+          Common Diagnoses:
+              General check-up: 124 visits
+              ACL recovery: 51 visits
+              Shoulder surgery recovery: 23 visits
+          Common Treatments:
+              Standard consultation: 124 visits
+              Range of motion exercises: 51 visits
+              Strength exercises: 23 visits
+  Average Treatment Duration: 32.83 days
+
+Monthly Trends:
+  January:
+      Total Visits: 63
+      Follow-up Visits Needed: 40
+  February:
+      Total Visits: 44
+      Follow-up Visits Needed: 23
+  March:
+      Total Visits: 52
+      Follow-up Visits Needed: 40
+  April:
+      Total Visits: 49
+      Follow-up Visits Needed: 35
+  May:
+      Total Visits: 62
+      Follow-up Visits Needed: 43
+  June:
+      Total Visits: 50
+      Follow-up Visits Needed: 35
+  July:
+      Total Visits: 59
+      Follow-up Visits Needed: 38
+  August:
+      Total Visits: 62
+      Follow-up Visits Needed: 38
+  September:
+      Total Visits: 50
+      Follow-up Visits Needed: 34
+  October:
+      Total Visits: 58
+      Follow-up Visits Needed: 38
+  November:
+      Total Visits: 56
+      Follow-up Visits Needed: 38
+  December:
+      Total Visits: 47
+      Follow-up Visits Needed: 33
+
+Notable Insights:
+  Busiest Month by Department:
+      Mental Health Counseling saw the most visits in May.
+      Physiotherapy saw the most visits in July.
+      Post-Surgery Rehabilitation saw the most visits in October.
+
+  Busiest Month by Diagnosis:
+      ACL recovery was most commonly reported in August.
+      Anxiety was most commonly reported in March.
+      Depression was most commonly reported in March.
+      General check-up was most commonly reported in November.
+      Knee pain was most commonly reported in March.
+      Lower back pain was most commonly reported in August.
+      Shoulder surgery recovery was most commonly reported in October.
+
+  Busiest Month by Treatment:
+      Cognitive Behavioral Therapy was most commonly administered in March.
+      Manual therapy was most commonly administered in August.
+      Range of motion exercises was most commonly administered in August.
+      Standard consultation was most commonly administered in November.
+      Strength exercises was most commonly administered in October.
+      Strength training was most commonly administered in March.
+      Talk therapy was most commonly administered in March.

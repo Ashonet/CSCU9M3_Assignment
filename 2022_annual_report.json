@@ -1,0 +1,172 @@
+{
+    "year": 2022,
+    "total_records": 648,
+    "departments": [
+        {
+            "department_name": "Mental Health Counseling",
+            "total_visits": 304,
+            "common_diagnoses": [
+                {
+                    "diagnosis": "General check-up",
+                    "frequency": 163
+                },
+                {
+                    "diagnosis": "Anxiety",
+                    "frequency": 84
+                },
+                {
+                    "diagnosis": "Depression",
+                    "frequency": 57
+                }
+            ],
+            "common_treatments": [
+                {
+                    "treatment": "Standard consultation",
+                    "frequency": 163
+                },
+                {
+                    "treatment": "Cognitive Behavioral Therapy",
+                    "frequency": 84
+                },
+                {
+                    "treatment": "Talk therapy",
+                    "frequency": 57
+                }
+            ],
+            "average_treatment_duration": 33.4
+        },
+        {
+            "department_name": "Physiotherapy",
+            "total_visits": 139,
+            "common_diagnoses": [
+                {
+                    "diagnosis": "General check-up",
+                    "frequency": 77
+                },
+                {
+                    "diagnosis": "Lower back pain",
+                    "frequency": 32
+                },
+                {
+                    "diagnosis": "Knee pain",
+                    "frequency": 30
+                }
+            ],
+            "common_treatments": [
+                {
+                    "treatment": "Standard consultation",
+                    "frequency": 77
+                },
+                {
+                    "treatment": "Manual therapy",
+                    "frequency": 32
+                },
+                {
+                    "treatment": "Strength training",
+                    "frequency": 30
+                }
+            ],
+            "average_treatment_duration": 35.4
+        },
+        {
+            "department_name": "Post-Surgery Rehabilitation",
+            "total_visits": 205,
+            "common_diagnoses": [
+                {
+                    "diagnosis": "General check-up",
+                    "frequency": 116
+                },
+                {
+                    "diagnosis": "ACL recovery",
+                    "frequency": 53
+                },
+                {
+                    "diagnosis": "Shoulder surgery recovery",
+                    "frequency": 36
+                }
+            ],
+            "common_treatments": [
+                {
+                    "treatment": "Standard consultation",
+                    "frequency": 116
+                },
+                {
+                    "treatment": "Range of motion exercises",
+                    "frequency": 53
+                },
+                {
+                    "treatment": "Strength exercises",
+                    "frequency": 36
+                }
+            ],
+            "average_treatment_duration": 33.37
+        }
+    ],
+    "monthly_summary": [
+        {
+            "month": "January",
+            "record_count": 52,
+            "follow_up_visits": 31
+        },
+        {
+            "month": "February",
+            "record_count": 56,
+            "follow_up_visits": 39
+        },
+        {
+            "month": "March",
+            "record_count": 53,
+            "follow_up_visits": 28
+        },
+        {
+            "month": "April",
+            "record_count": 57,
+            "follow_up_visits": 34
+        },
+        {
+            "month": "May",
+            "record_count": 51,
+            "follow_up_visits": 33
+        },
+        {
+            "month": "June",
+            "record_count": 52,
+            "follow_up_visits": 32
+        },
+        {
+            "month": "July",
+            "record_count": 48,
+            "follow_up_visits": 31
+        },
+        {
+            "month": "August",
+            "record_count": 67,
+            "follow_up_visits": 44
+        },
+        {
+            "month": "September",
+            "record_count": 50,
+            "follow_up_visits": 29
+        },
+        {
+            "month": "October",
+            "record_count": 51,
+            "follow_up_visits": 30
+        },
+        {
+            "month": "November",
+            "record_count": 56,
+            "follow_up_visits": 37
+        },
+        {
+            "month": "December",
+            "record_count": 55,
+            "follow_up_visits": 37
+        }
+    ],
+    "overall_outcomes": {
+        "improved": 243,
+        "no_change": 198,
+        "worsened": 207
+    }
+}
